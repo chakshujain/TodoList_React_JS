@@ -1,0 +1,11 @@
+.btn{
+  display: inline-block;
+  cursor: pointer;
+  color:#fff;
+  background: #555;
+  padding: 10px 30px;
+
+}
+.btn:hover{
+  background: #666;
+}
